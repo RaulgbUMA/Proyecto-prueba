@@ -1,4 +1,6 @@
-Hola estoy haciendo cambios mientras otra persona está haciendo cambios al mismo tiempo.
+Hola estoy haciendo cambios mientras otra persona está haciendo cambios al mismo tiempo, raul.
+
+vaya putada
 
 
 
@@ -6,13 +8,4 @@ Hola estoy haciendo cambios mientras otra persona está haciendo cambios al mism
 
 
 
-
-
-
-
-
-
-Voy a escribir aquí también 
-
-
-Y aquí por probar
+vas a tener que tocar con el diff
